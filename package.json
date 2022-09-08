@@ -1,0 +1,19 @@
+{
+  "name": "e-commerce-graphql-backend-scratch",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/rehmanaliawans/e-commerce-graphql-backend-scratch.git",
+  "author": "Rehman ali <rehmanaliawans@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.10.2",
+    "apollo-server-core": "^3.10.2",
+    "apollo-server-express": "^3.10.2",
+    "bcryptjs": "^2.4.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.2",
+    "graphql": "^16.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.5.3"
+  }
+}
